@@ -1,0 +1,1 @@
+{"version": 0.6, "generator": "Overpass API 0.7.62.7 375dc00a", "osm3s": {"timestamp_osm_base": "2025-06-14T14:59:46Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 2535756066, "lat": 29.7963533, "lon": 28.5513975, "tags": {"amenity": "restaurant"}}]}
