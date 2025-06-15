@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"version": 0.6, "generator": "Overpass API 0.7.62.7 375dc00a", "osm3s": {"timestamp_osm_base": "2025-06-14T17:49:39Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 6064566288, "lat": 41.4001078, "lon": 2.2055874, "tags": {"addr:housenumber": "15", "addr:postcode": "08005", "addr:street": "Carrer de l'Amistat", "amenity": "dormitory", "entrance": "yes", "name": "Associaci\u00f3 In Via"}}]}
+=======
+{"version": 0.6, "generator": "Overpass API 0.7.62.7 375dc00a", "osm3s": {"timestamp_osm_base": "2025-06-14T17:00:35Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 6064566288, "lat": 41.4001078, "lon": 2.2055874, "tags": {"addr:housenumber": "15", "addr:postcode": "08005", "addr:street": "Carrer de l'Amistat", "amenity": "dormitory", "entrance": "yes", "name": "Associaci\u00f3 In Via"}}]}
+>>>>>>> OSM-grid-
