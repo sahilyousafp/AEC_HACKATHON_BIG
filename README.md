@@ -1,6 +1,10 @@
 ### ZONO_NAUTS.
 
-![Alt text](image/assets/ZONO_NAUTS-AEC hackathon (1).png)
+![Hackathon Poster 1](assets/ZONO_NAUTS-AEC%20hackathon%20(1).png)
+
+![Hackathon Poster 2](assets/ZONO_NAUTS-AEC%20hackathon%20(2).png)
+
+![Hackathon Poster 3](assets/ZONO_NAUTS-AEC%20hackathon.png)
 
 ### About This Repository
 
