@@ -1,6 +1,8 @@
 ### ZONO_NAUTS.
 ![Minecraft Loading](assets/minecraft.gif)
 ### About This Repository
+Presentation link
+https://docs.google.com/presentation/d/1TVzfKjb-gqISSw54PyOh2nNhkcX3KrRm1F0NSyFUOvg/edit?usp=sharing
 
 This repository contains proof-of-concept code developed during the **AEC TECH Hackathon 2025** hosted at **BIG Office, Barcelona**. Built by the ZONO_NAUTS team, the project explores how we can visualize, simulate, and predict urban growth patterns using **graph neural networks (GNNs)** and **Minecraft-style voxel models**.
 
